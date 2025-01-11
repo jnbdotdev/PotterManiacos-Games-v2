@@ -52,11 +52,11 @@ O projeto conta com os seguintes jogos:
 - Entrada: "Teste"
 - Saída:
 
-> Teste
-> Test
-> Tes 
-> Te
-> T
+> Teste  
+> Test  
+> Tes  
+> Te  
+> T  
 
         
 5.  **Decompor Compor**: Desmonta a palavra e depois a reconstrói.
@@ -64,15 +64,15 @@ O projeto conta com os seguintes jogos:
 - Entrada: "Teste"
 - Saída:
 
-> Teste
-> Test
-> Tes
-> Te
-> T
-> Te
-> Tes
-> Test
-> Teste
+> Teste  
+> Test  
+> Tes  
+> Te  
+> T  
+> Te  
+> Tes  
+> Test  
+> Teste  
 
         
 6.  **Desmembrando**: Exibe a palavra retirando uma letra inicial por vez.
@@ -80,11 +80,11 @@ O projeto conta com os seguintes jogos:
 - Entrada: "Teste"
 - Saída:
 
-> Teste
-> este
-> ste
-> te
-> e
+> Teste  
+> este  
+> ste  
+> te  
+> e  
 
         
 7.  **Espelho**: Mostra a palavra invertida.
@@ -112,7 +112,7 @@ O projeto conta com os seguintes jogos:
 > TEST  
 > TES  
 > TE  
-> T
+> T  
 
         
 10.  **Pontilhado**: Adiciona pontos entre as letras da palavra.
@@ -143,11 +143,11 @@ O projeto conta com os seguintes jogos:
 - Entrada: "Teste"
 - Saída:
 
-> TT
-> EE
-> SS
-> TT
-> EE
+> TT  
+> EE  
+> SS  
+> TT  
+> EE  
 
         
 14.  **Zig Zag**: Organiza as letras em uma forma ziguezagueada.
