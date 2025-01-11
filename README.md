@@ -12,11 +12,11 @@ O projeto conta com os seguintes jogos:
 - Saída:
         
 
-> Transfiguração
-> Episkey
-> Sectumsempra
-> Trasgo
-> Expecto
+> Transfiguração  
+> Episkey  
+> Sectumsempra  
+> Trasgo  
+> Expecto  
 
         
 2.  **Compor**: Constrói a palavra letra por letra.
@@ -24,11 +24,11 @@ O projeto conta com os seguintes jogos:
 - Entrada: "Teste"
 - Saída:
 
-> T
-> Te
-> Tes
-> Test
-> Teste
+> T  
+> Te  
+> Tes  
+> Test  
+> Teste  
 
         
 3.  **Compor Decompor**: Monta a palavra letra por letra e depois a desmonta.
