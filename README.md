@@ -1,5 +1,5 @@
 # PotterManíacos Games v2
-
+ 
 **PotterManíacos Games v2** é uma coletânea de 14 jogos de manipulação de palavras, inspirados no universo mágico de Harry Potter. Desenvolvido em Java, o projeto transforma palavras escolhidas pelos jogadores de maneiras criativas e diversas, explorando lógicas textuais e padrões diferentes.
 
 ## Jogos Disponíveis
